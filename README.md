@@ -90,6 +90,7 @@ hour 12 averaging roughly 83 gCO2/kWh — the lowest point in the daily cycle.
 - Currently only uses the `/intensity` endpoint; the API's `/generation`
   endpoint (fuel mix — wind, solar, gas, etc.) would let the project explain
   *why* certain hours are greener, not just *which* ones are.
+- Built avg_by_hour_dow and greenest_hours as Gold tables but haven’t yet visualized them — the current report only           surfaces the overall hourly pattern, not day-of-week variation
 
 ## A note on how this was built
 I built this while learning Databricks, PySpark, and medallion architecture
