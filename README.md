@@ -47,12 +47,12 @@ question:
 Triggers automatically whenever Silver is updated.
 
 ### Dashboard — Power BI
-The dashboard shows the average intensity for each hour of the day in a bar chart 
-A one-page report connected to the Gold tables via Databricks SQL Warehouse,
-showing:
-- Average carbon intensity by hour of day
-- A heatmap of intensity by hour × day of week
-- The top 3 greenest hours
+A single bar chart showing average carbon intensity for each hour of the
+day (0–23), with the lowest-intensity hour highlighted in green. Built from
+`gold.avg_by_hour`, connected live via Databricks SQL Warehouse.
+
+**Finding:** Carbon intensity is consistently lowest around midday, with
+hour 12 averaging roughly 83 gCO2/kWh — the lowest point in the daily cycle.
 
 **Carbon intensity is consistently lowest around midday, with 12–1 PM averaging 83.4 gCO2/kWh — likely driven by solar generation peaking around this time.**
 
