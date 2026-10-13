@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="cHLpTbrVV_Q1Hs6KUaIc">
+    <mxGraphModel dx="772" dy="1142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CrPyQSrjtPZry6oJQHZM-3" edge="1" parent="1" source="CrPyQSrjtPZry6oJQHZM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CrPyQSrjtPZry6oJQHZM-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CrPyQSrjtPZry6oJQHZM-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="URL" vertex="1">
+          <mxGeometry height="60" width="120" x="310" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CrPyQSrjtPZry6oJQHZM-6" edge="1" parent="1" source="CrPyQSrjtPZry6oJQHZM-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CrPyQSrjtPZry6oJQHZM-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CrPyQSrjtPZry6oJQHZM-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Catalog / Bronze" vertex="1">
+          <mxGeometry height="60" width="120" x="310" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="CrPyQSrjtPZry6oJQHZM-4" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Bronze Notebook&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="70" x="380" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CrPyQSrjtPZry6oJQHZM-9" edge="1" parent="1" source="CrPyQSrjtPZry6oJQHZM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CrPyQSrjtPZry6oJQHZM-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CrPyQSrjtPZry6oJQHZM-5" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Catalog / Silver" vertex="1">
+          <mxGeometry height="60" width="120" x="310" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="CrPyQSrjtPZry6oJQHZM-7" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Silver Notebook&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="70" x="380" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="CrPyQSrjtPZry6oJQHZM-12" edge="1" parent="1" source="CrPyQSrjtPZry6oJQHZM-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CrPyQSrjtPZry6oJQHZM-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CrPyQSrjtPZry6oJQHZM-8" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Catalog / Gold" vertex="1">
+          <mxGeometry height="60" width="120" x="310" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="CrPyQSrjtPZry6oJQHZM-10" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Gold&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Notebook&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="70" x="380" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="CrPyQSrjtPZry6oJQHZM-11" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Power BI" vertex="1">
+          <mxGeometry height="60" width="120" x="310" y="610" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
