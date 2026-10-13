@@ -51,8 +51,6 @@ day (0–23), with the lowest-intensity hour highlighted in green. Built from
 **Finding:** Carbon intensity is consistently lowest around midday, with
 hour 12 averaging roughly 83 gCO2/kWh — the lowest point in the daily cycle.
 
-**Carbon intensity is consistently lowest around midday, with 12–1 PM averaging 83.4 gCO2/kWh — likely driven by solar generation peaking around this time.**
-
 ## How to reproduce
 1. Sign up for Databricks Free Edition
 2. Create a Unity Catalog catalog `carbon_intensity` with schemas `bronze`,
