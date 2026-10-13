@@ -48,7 +48,8 @@ A single bar chart showing average carbon intensity for each hour of the
 day (0–23), with the lowest-intensity hour highlighted in green. Built from
 `gold.avg_by_hour`, connected live via Databricks SQL Warehouse.
 
-**Finding:** Carbon intensity is consistently lowest around midday, with
+### Finding: 
+Carbon intensity is consistently lowest around midday, with
 hour 12 averaging roughly 83 gCO2/kWh — the lowest point in the daily cycle.
 
 ## How to reproduce
