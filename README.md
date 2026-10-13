@@ -8,10 +8,7 @@ intensity on the UK electricity grid? In other words: when is the
 ## Architecture
 Public API → Bronze (raw) → Silver (cleaned) → Gold (aggregated) → Power BI report
 
-<!-- Add a simple box-and-arrow diagram here, e.g. made in draw.io,
-     saved to /docs/architecture.png, then:
-![Architecture diagram](docs/architecture.png)
--->
+![Architecture diagram](architecture-diagram.png)
 
 - **Source:** National Grid ESO Carbon Intensity API
   (https://api.carbonintensity.org.uk) — free, public, no authentication required
